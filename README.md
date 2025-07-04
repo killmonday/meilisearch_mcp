@@ -1,0 +1,2 @@
+# meilisearch_mcp
+专为Trovelocal项目打造的mcp服务器
