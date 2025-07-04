@@ -1,7 +1,7 @@
 from meilisearch import Client
 
 # 你的 Meilisearch 配置
-MEILI_URL = "http://192.168.31.126:7700"
+MEILI_URL = "http://192.168.31.13:7700"
 MEILI_API_KEY = "rzHvvVSus8cu_jgZ1UuXB5SyfXAGeSUMIlITMov9uig"  # 如果你启用了 API 密钥，请填写
 
 MEILI_INDEX = "articles"  # 索引名称，需要预先创建并导入数据
